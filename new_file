@@ -1,24 +1,6 @@
-5th modified---at the branch2
+6th modified---at the branch2
 This branch_2 is ahead of master now.
 After merge, there's no trait for rebase.
 
 
-4th modified--- at the branch2
-
-
-
-
-
-
-
-<<<<<<< HEAD
----3rd modified--- at the branch1
-=======
----3nd modified--- at the branch2
->>>>>>> branch_2
-
----2nd modified---
-
----1st modified---
-2012083011 HeeSun You
-
+Clean now.
